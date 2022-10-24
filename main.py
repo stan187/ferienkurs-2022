@@ -7,7 +7,12 @@ def sketch(p):
 
     def setup():
         p.createCanvas(700, 410)
-        p.background(255)
+      
+      #die hintergrundfarbe kann verändert werden,in dem wir den übergebenen wertverändern
+      #diesen übergebenen wert nennt man einen parameter.
+      #die runde klammern >()< die diesen wert umschließen,bezeichnet man als parameterliste.
+      
+        p.background(192)
         p.rectMode(p.CENTER)
       
     p.setup = setup
