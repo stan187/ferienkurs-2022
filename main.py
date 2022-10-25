@@ -12,7 +12,7 @@ def sketch(p):
       #diesen übergebenen wert nennt man einen parameter.
       #die runde klammern >()< die diesen wert umschließen,bezeichnet man als parameterliste.
       
-        p.background(192)
+        p.background(255)
         p.rectMode(p.CENTER)
       
     p.setup = setup
