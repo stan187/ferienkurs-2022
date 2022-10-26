@@ -22,7 +22,7 @@ def sketch(p) :
       p.fill(65,98.150)
       p.circle(175,200,25)
 
-      p.fill(248,250,252)
+      p.fill(70,700,500)
       p.circle(175,200,20)
     p.setup = setup
 
